@@ -5,6 +5,7 @@ The purpose of this project was to analyze data for a ride-sharing company and o
 
 ## Results
 The results of the analysis show that the highest number of rides, drivers and fares are in urban areas and the lowest number of rides, drivers and fares are in rural areas. Because of this driver scarcity in rural areas, the average fare per ride and average fare per driver are the most expensive, followed by suburban areas and then urban. Below are images of the Data Frame and line chart depicting these results. 
+
 ![PyBer_summary](https://github.com/mayamtims/PyBer-Analysis/blob/main/Analysis/pyber_summary_df.png)
 ![PyBer_plot](https://github.com/mayamtims/PyBer-Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
